@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ben/projects/codecrafters/mygit/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+/home/ben/projects/codecrafters/mygit/build/CMakeFiles/git.dir
+/home/ben/projects/codecrafters/mygit/build/CMakeFiles/edit_cache.dir
+/home/ben/projects/codecrafters/mygit/build/CMakeFiles/rebuild_cache.dir

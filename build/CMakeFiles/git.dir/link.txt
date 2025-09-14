@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/git.dir/link.d CMakeFiles/git.dir/src/main.cpp.o -o git  /usr/lib/libcrypto.so /usr/lib/libz.so
